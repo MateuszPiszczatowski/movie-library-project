@@ -3,7 +3,7 @@ Team Project 'Filmoteka' (eng movie library)
 'Filmoteka' is a movie search engine from themoviedb.org. 
 This website allows not only to search for movies but is also prepared to create a personalized library in the 'My Library' section, where the user can add a film to the 'to watch' list (the 'Queue' section) or to the list of watched films (the 'Watched' section).
 
-https://magdalenabernat.github.io/movie-library-project/
+https://mateuszpiszczatowski.github.io/movie-library-project/
 
 
 Used technologies:
